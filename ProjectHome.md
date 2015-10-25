@@ -1,0 +1,1 @@
+Basically this is the  Central Authentication Service (CAS) from  http://www.jasig.org/ - but this project can be immediately used within MyEclipse (or Eclipse) without any struggle. All needed libraries and files are included. Basically it is only necessary to deploy it on Tomcat or any other container.
